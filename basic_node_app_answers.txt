@@ -1,0 +1,11 @@
+>What is a Node module?
+
+A node module is a set of functions to be included in an application.
+
+>What is the main difference between exports and module.exports?
+
+
+
+>Why is using exports recommended?
+
+exports is recommended unless the module is intended to be a specific object type.
